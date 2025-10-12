@@ -1,0 +1,1 @@
+La inteligencia artificial (IA) es la rama de la informática que crea sistemas para tareas humanas como aprendizaje y decisiones, usando algoritmos y modelos matemáticos.
