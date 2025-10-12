@@ -1,0 +1,1 @@
+La IA es un como campo amplio de información; mientras que el ML (aprendizaje automático) esta enfocado en algoritmos que aprenden de datos y el DL (aprendizaje profundo) es la subárea de ML con redes neuronales para patrones complejos que  incluye ejemplos como detección de spam.
