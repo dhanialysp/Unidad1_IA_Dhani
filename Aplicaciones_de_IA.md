@@ -1,0 +1,3 @@
+Aplicaciones de IA: 
+
+En la actualidad la IA se desempeña en diversos campos, como ejemplo de esto: en medicina se utiliza para diagnósticos, en  finanzas para tomar decisiones sobre inversiones, y en su campo mas amplio la tecnología se  utiliza para el desarrollo de software, visión por computadora sobre seguridad y salud, procesamiento del lenguaje natural como PLN, asistentes y traductores, y en la robótica para la interacción con el mundo físico.
