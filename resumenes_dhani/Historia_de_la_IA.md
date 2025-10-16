@@ -13,4 +13,4 @@ El 2010s vio el auge del deep learning gracias al poder computacional y big data
 
 Actualidad (2020s)
 En 2020, OpenAI lanzó GPT-3, un modelo generativo que crea texto humano-like. En 2023, ChatGPT y GPT-4 impulsaron la adopción masiva, integrando IA en la vida diaria.
-En 2025, el enfoque está en regulaciones éticas, como las de la UE, y avances en IA multimodal para medicina y vehículos autónomos.La IA ha superado ciclos de euforia y desilusión, impulsada por avances en hardware y algoritmos. Hoy, enfrenta desafíos éticos como sesgos y privacidad, pero promete transformar industrias. Para más detalles, consulta las fuentes citadas.
+En 2025, el enfoque está en regulaciones éticas, como las de la UE, y avances en IA multimodal para medicina y vehículos autónomos.La IA ha superado ciclos de euforia y desilusión, impulsada por avances en hardware y algoritmos. Hoy, enfrenta desafíos éticos como sesgos y privacidad, pero promete transformar industrias. 

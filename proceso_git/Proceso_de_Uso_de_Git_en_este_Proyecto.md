@@ -10,8 +10,8 @@ Proceso de Uso de Git en este Proyecto de resúmenes
 - git init (para iniciar el repositorio)
 
  Agregar Contenido y Commits
-- git add para añadir archivos y en caso de edición
-- git add . (para agregar todo)
+- git add para añadir archivos uno por uno y en caso de edición
+- git add . (el punto (.) es para agregar todo para agregar todo)
 - git commit -m "Agrego resúmenes iniciales"
 
 
